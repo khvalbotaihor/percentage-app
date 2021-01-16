@@ -8,6 +8,9 @@ function App() {
 
       percentage app
 
+
+
+
     </div>
   );
 }

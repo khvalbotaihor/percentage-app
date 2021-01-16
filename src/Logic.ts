@@ -1,5 +1,3 @@
-
-
 export  function run() {
     const res1 = distribute([25, 25, 25, 25], 0, 60) // [85,0,0,15]
     const res2 = distribute([25, 25, 25, 25], 2, -20) // [45,25,5,25]
