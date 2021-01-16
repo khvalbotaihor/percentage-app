@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/percentage-app/static/css/main.c93bd4cb.chunk.css",
+    "main.js": "/percentage-app/static/js/main.1319911b.chunk.js",
+    "main.js.map": "/percentage-app/static/js/main.1319911b.chunk.js.map",
+    "runtime-main.js": "/percentage-app/static/js/runtime-main.62e63cd6.js",
+    "runtime-main.js.map": "/percentage-app/static/js/runtime-main.62e63cd6.js.map",
+    "static/js/2.3285f50e.chunk.js": "/percentage-app/static/js/2.3285f50e.chunk.js",
+    "static/js/2.3285f50e.chunk.js.map": "/percentage-app/static/js/2.3285f50e.chunk.js.map",
+    "static/js/3.d30d61ec.chunk.js": "/percentage-app/static/js/3.d30d61ec.chunk.js",
+    "static/js/3.d30d61ec.chunk.js.map": "/percentage-app/static/js/3.d30d61ec.chunk.js.map",
+    "index.html": "/percentage-app/index.html",
+    "static/css/main.c93bd4cb.chunk.css.map": "/percentage-app/static/css/main.c93bd4cb.chunk.css.map",
+    "static/js/2.3285f50e.chunk.js.LICENSE.txt": "/percentage-app/static/js/2.3285f50e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62e63cd6.js",
+    "static/js/2.3285f50e.chunk.js",
+    "static/css/main.c93bd4cb.chunk.css",
+    "static/js/main.1319911b.chunk.js"
+  ]
+}
