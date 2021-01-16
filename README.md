@@ -14,7 +14,7 @@ The sum of these fields must always remain 100
 
 Example
 
-![example](http://prntscr.com/wty8y0)
+
 
 function distribute(arr, index, val) {
   // ....
