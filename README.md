@@ -1,8 +1,8 @@
-#Percentage application
+# Percentage application
 
-Create a simple web application 
+## Create a simple web application 
 
-Requirements:
+#### Requirements:
 - The UI should contain 4 inputs with two buttons on the sides for each one. 
 - Each input field must contain a number value, which is a percentage.
 - When the user presses "-" or "+", the value should decreased or increased respectively (let's say the step = 5)
@@ -12,9 +12,9 @@ The sum of these fields must always remain 100
 
 
 
-Example
+#### Example:
+<img width="230" alt="Screenshot_258" src="https://user-images.githubusercontent.com/31129714/104811933-91427880-5807-11eb-877e-1658875ad582.png">
 
-![example](http://prntscr.com/wty8y0)
 
 function distribute(arr, index, val) {
   // ....
