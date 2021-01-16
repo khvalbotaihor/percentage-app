@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import {run} from "./Logic";
 
 function App() {
   return (
@@ -10,5 +11,5 @@ function App() {
     </div>
   );
 }
-
+run();
 export default App;
