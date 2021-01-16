@@ -13,7 +13,7 @@ The sum of these fields must always remain 100
 
 
 Example
-
+<img width="230" alt="Screenshot_258" src="https://user-images.githubusercontent.com/31129714/104811933-91427880-5807-11eb-877e-1658875ad582.png">
 
 
 function distribute(arr, index, val) {
